@@ -1,0 +1,6 @@
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\Content\obj\x86\Debug\simpsons.xml
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\Content\obj\x86\Debug\simpsons.xml
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\Content\obj\x86\Debug\simpsons.xml

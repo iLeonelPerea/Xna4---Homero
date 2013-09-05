@@ -1,0 +1,78 @@
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\death1.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\inh2o.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\land2.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\DuffBeer.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\homer.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Homero.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Homero.pdb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\obj\x86\Debug\Homero.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\obj\x86\Debug\Homero.pdb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\springfield.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\fuente.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\simpsons.xgs
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\Programacion para el Diseño\Homero\Homero\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\death1.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\inh2o.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\land2.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\DuffBeer.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\homer.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\Springfield.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\fuente.xnb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\simpsons.xgs
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Homero.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\bin\x86\Debug\Homero.pdb
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\obj\x86\Debug\Homero.exe
+C:\Users\GonzalezHP\Documents\Visual Studio 2008\Projects\JOSE\Homero\Homero\obj\x86\Debug\Homero.pdb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\obj\x86\Debug\Homero.exe
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\obj\x86\Debug\Homero.pdb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\death1.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\inh2o.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\land2.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\DuffBeer.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\homer.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\Springfield.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\fuente.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\SimpsonSeleccionadaF.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\SimpsonNormal.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\simpsons.xgs
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Homero.exe
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Homero.pdb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\fondoIntro.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\losSimpsons.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\instrucciones.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\cloud2.xnb
+C:\Users\Gonzalez\Documents\Visual Studio 2008\DESARROLLO DE VIDEOJUEGOS\Homero\Homero\bin\x86\Debug\Content\cloud5.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\death1.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\inh2o.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\land2.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\DuffBeer.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\homer.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\Springfield.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\fondoIntro.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\losSimpsons.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\instrucciones.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\cloud2.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\cloud5.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\fuente.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\SimpsonSeleccionadaF.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\SimpsonNormal.xnb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\simpsons.xgs
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Homero.exe
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Homero.pdb
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\obj\x86\Debug\Homero.csprojResolveAssemblyReference.cache
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\obj\x86\Debug\Homero.exe
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\obj\x86\Debug\Homero.pdb

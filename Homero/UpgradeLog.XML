@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Homero">
+</Property><Property Name="Solution File" Value="Z:\Downloads\Homero\Homero.sln">
+</Property><Property Name="User Options File" Value="Z:\Downloads\Homero\Homero.suo">
+</Property><Property Name="Date" Value="jueves, 5 de septiembre de 2013">
+</Property><Property Name="Time" Value="11:25 a. m.">
+</Property><Property Name="Solution" Value="Homero">
+</Property><Property Name="Solution File" Value="Z:\Downloads\Homero\Homero.sln">
+</Property><Property Name="Date" Value="jueves, 5 de septiembre de 2013">
+</Property><Property Name="Time" Value="11:25:43 a. m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Homero.sln" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Homero.suo" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero.suo">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Homero.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Homero.csproj" Description="Project file successfully backed up as Z:\Downloads\Homero\Backup\Homero\Homero.csproj">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Homero.csproj.user" Description="Project user file successfully backed up as Z:\Downloads\Homero\Backup\Homero\Homero.csproj.user">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\AudioComponent.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\AudioComponent.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\ComparaScore.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\ComparaScore.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Core\Escena.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Core\Escena.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Core\ImagenFondo.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Core\ImagenFondo.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Duff.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Duff.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\EscenaInstrucciones.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\EscenaInstrucciones.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\EscenaIntro.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\EscenaIntro.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\EscenaJuego.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\EscenaJuego.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\EscenaSave.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\EscenaSave.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\EscenaScore.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\EscenaScore.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Homero.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Homero.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Core\Menu.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Core\Menu.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Program.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Program.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Game1.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Game1.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Score.cs" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Score.cs">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Game.ico" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\Game.ico">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\GameThumbnail.png" Description="File successfully backed up as Z:\Downloads\Homero\Backup\Homero\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Homero.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Homero" Source="Homero\Homero.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Homero.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Homero.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Homero.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Homero" Source="Homero\Homero.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="simpsons.xgs" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Sound Bank.xsb" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Wave Bank.xwb" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="cloud.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="cloud2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="cloud3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="cloud4.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="cloud5.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="cool.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="death1.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="doh.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="DuffBeer.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="fondoIntro.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="fuente.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="haha.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="homer.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="inh2o.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="instrucciones.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="land2.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="losSimpsons.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ohhh.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="scream.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SimpsonNormal.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="simpsons-tv.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="simpsons.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="simpsons.xap" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SimpsonSeleccionadaF.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Springfield.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="wooho.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="yesar.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="HomeroContent" Source="Homero\Content\HomeroContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

@@ -1,0 +1,7 @@
+raul:1000
+RGS:235
+RGS:215
+RGS:175
+roger:10
+AAA:-5
+GLQ:-15

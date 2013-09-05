@@ -1,0 +1,3 @@
+Z:\Downloads\Homero\Homero\Content\obj\x86\Debug\HomeroContent.contentprojResolveAssemblyReference.cache
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\Content\obj\x86\Debug\HomeroContent.contentprojResolveAssemblyReference.cache
+C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\Content\obj\x86\Debug\simpsons.xml

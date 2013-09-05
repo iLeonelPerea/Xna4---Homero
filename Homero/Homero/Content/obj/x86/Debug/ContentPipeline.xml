@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>death1.wav</Source>
+      <Name>death1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\death1.xnb</Output>
+      <Time>2009-10-30T09:56:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>inh2o.wav</Source>
+      <Name>inh2o</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\inh2o.xnb</Output>
+      <Time>2009-10-30T09:56:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>land2.wav</Source>
+      <Name>land2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\land2.xnb</Output>
+      <Time>2009-10-30T09:56:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DuffBeer.png</Source>
+      <Name>DuffBeer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\DuffBeer.xnb</Output>
+      <Time>2009-10-30T09:56:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>homer.png</Source>
+      <Name>homer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\homer.xnb</Output>
+      <Time>2009-10-30T09:56:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Springfield.png</Source>
+      <Name>Springfield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\Springfield.xnb</Output>
+      <Time>2009-10-30T10:39:07-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fondoIntro.png</Source>
+      <Name>fondoIntro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\fondoIntro.xnb</Output>
+      <Time>2010-01-18T10:22:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>losSimpsons.png</Source>
+      <Name>losSimpsons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\losSimpsons.xnb</Output>
+      <Time>2010-01-18T10:20:39-06:00</Time>
+    </Item>
+    <Item>
+      <Source>instrucciones.png</Source>
+      <Name>instrucciones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\instrucciones.xnb</Output>
+      <Time>2010-01-18T11:21:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud2.png</Source>
+      <Name>cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\cloud2.xnb</Output>
+      <Time>2010-01-23T13:14:26-06:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud5.png</Source>
+      <Name>cloud5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\cloud5.xnb</Output>
+      <Time>2010-01-23T13:13:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fuente.spritefont</Source>
+      <Name>fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\fuente.xnb</Output>
+      <Time>2009-10-30T10:50:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SimpsonSeleccionadaF.spritefont</Source>
+      <Name>SimpsonSeleccionadaF</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\SimpsonSeleccionadaF.xnb</Output>
+      <Time>2010-01-29T09:19:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SimpsonNormal.spritefont</Source>
+      <Name>SimpsonNormal</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\SimpsonNormal.xnb</Output>
+      <Time>2010-01-18T11:12:22-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\LeonelPereaTrejo\Documents\Visual Studio 2010\Projects\Homero\Homero\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-05T11:07:59.4846454-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

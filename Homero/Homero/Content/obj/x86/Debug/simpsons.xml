@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 1554401430;
+    Bank Last Revised High = 30321273;
+
+    Wave
+    {
+        Name = death1;
+        File = death1.wav;
+        Build Settings Last Modified Low = 2972863940;
+        Build Settings Last Modified High = 30053135;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 46;
+            Play Region Length = 16313;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 548953857;
+            Last Modified High = 30038385;
+        }
+    }
+
+    Wave
+    {
+        Name = inh2o;
+        File = inh2o.wav;
+        Build Settings Last Modified Low = 2972863940;
+        Build Settings Last Modified High = 30053135;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 46;
+            Play Region Length = 15217;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 548953857;
+            Last Modified High = 30038385;
+        }
+    }
+
+    Wave
+    {
+        Name = land2;
+        File = land2.wav;
+        Build Settings Last Modified Low = 2972863940;
+        Build Settings Last Modified High = 30053135;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 46;
+            Play Region Length = 31588;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 549109857;
+            Last Modified High = 30038385;
+        }
+    }
+
+    Wave
+    {
+        Name = doh;
+        File = doh.wav;
+        Build Settings Last Modified Low = 161817312;
+        Build Settings Last Modified High = 30053136;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 12000;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 6064;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3231594594;
+            Last Modified High = 30038987;
+        }
+    }
+
+    Wave
+    {
+        Name = haha;
+        File = haha.wav;
+        Build Settings Last Modified Low = 3568793652;
+        Build Settings Last Modified High = 30055522;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 11517;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1101588150;
+            Last Modified High = 30055514;
+        }
+    }
+
+    Wave
+    {
+        Name = ohhh;
+        File = ohhh.wav;
+        Build Settings Last Modified Low = 3583643673;
+        Build Settings Last Modified High = 30055522;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22254;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 17940;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3793153229;
+            Last Modified High = 30055514;
+        }
+    }
+
+    Wave
+    {
+        Name = scream;
+        File = scream.wav;
+        Build Settings Last Modified Low = 3583643673;
+        Build Settings Last Modified High = 30055522;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22254;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 23208;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2644858376;
+            Last Modified High = 30055514;
+        }
+    }
+
+    Wave
+    {
+        Name = simpsons;
+        File = simpsons.wav;
+        Build Settings Last Modified Low = 3583643673;
+        Build Settings Last Modified High = 30055522;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 1287928;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2274820763;
+            Last Modified High = 30055522;
+        }
+    }
+
+    Wave
+    {
+        Name = wooho;
+        File = wooho.wav;
+        Build Settings Last Modified Low = 3583643673;
+        Build Settings Last Modified High = 30055522;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 10417;
+            Bits Per Sample = 0;
+            Play Region Offset = 56;
+            Play Region Length = 8448;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3095961805;
+            Last Modified High = 30055513;
+        }
+    }
+
+    Wave
+    {
+        Name = yesar;
+        File = yesar.wav;
+        Build Settings Last Modified Low = 3583693673;
+        Build Settings Last Modified High = 30055522;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 21966;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 26472;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3945283197;
+            Last Modified High = 30055514;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
